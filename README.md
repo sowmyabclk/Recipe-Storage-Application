@@ -1,13 +1,14 @@
-Description: a single page application to create, store and View Recipe details.
+### Description 
+A single page application to create, store and View Recipe details.
 
-How to Run the Project
+### How to Run the Project
 
-step-1: Download the Project from git repository
-step-2: npm install to download the necessary packages
-step-3: npm start to start the project
+* step-1: Download the Project from git repository
+* step-2: npm install to download the necessary packages
+* step-3: npm start to start the project
 
 
-What this project does
+### What this project does
 
 ### Home
 * Displays a list of all stored recipes
